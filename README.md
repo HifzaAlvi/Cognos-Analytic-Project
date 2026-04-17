@@ -1,4 +1,4 @@
-<img width="1914" height="820" alt="Screenshot 2026-04-18 043304" src="https://github.com/user-attachments/assets/b02a9cbb-8fbb-47a9-be93-c89b328920af" />
+
 
 # Cognos-Analytic-Project Title:-Job Salary Analysis
 ## Overview
