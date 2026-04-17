@@ -1,5 +1,5 @@
 <img width="1914" height="820" alt="Screenshot 2026-04-18 043304" src="https://github.com/user-attachments/assets/b02a9cbb-8fbb-47a9-be93-c89b328920af" />
-<img width="1914" height="820" alt="Screenshot 2026-04-18 043304" src="https://github.com/user-attachments/assets/5049f1cd-2d5d-47cb-bbc7-e307d2210fa1" />
+
 # Cognos-Analytic-Project Title:-Job Salary Analysis
 ## Overview
 This project ananlyzes job salary trnds using Ibm cognos Analytic .varies based on job roless, experiences level ,company size and location using data vislusization and reporting techniques.
