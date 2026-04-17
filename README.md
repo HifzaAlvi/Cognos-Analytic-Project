@@ -1,5 +1,3 @@
-[Sreenshot (2).zip](https://github.com/user-attachments/files/26844834/Sreenshot.2.zip)
-
 
 # Cognos-Analytic-Project Title:-Job Salary Analysis
 ## Overview
